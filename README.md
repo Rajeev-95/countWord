@@ -5,8 +5,7 @@ Input Format:
   
  1.  First line contain only single Integer denoting the size of dictionary (say N).
  2. Next N line contain words from Dictionary.
- 
-3.In next line enter the string in which you want to search your dictionary words.
+ 3.In next line enter the string in which you want to search your dictionary words.
 
 
 Output Format:
